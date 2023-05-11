@@ -6,7 +6,7 @@
 
 
 
-required python modules
+required python modules: 
 pip install --user send2trash==1.5.0
 pip install --user requests==2.21.0
 pip install --user beautifulsoup4==4.7.1
